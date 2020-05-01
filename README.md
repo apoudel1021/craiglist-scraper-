@@ -1,4 +1,4 @@
-#craiglist scrapper
+#craiglist scraper
 
 To run the program.
 
